@@ -3,6 +3,8 @@ jQuery.Simple-Showcase/Gallery
 
 jQuery.Simple-Showcase/Gallery makes it easier for you to clean display gallery/products etc
 
+[Check out demo!](http://philipehsing.github.io/simpleshowcase/)
+
 
 ###Setup
 ```html
