@@ -15,6 +15,6 @@ jQuery.Simple-Showcase/Gallery makes it easier for you to clean display gallery/
 ```
 
 ###Basic
-![alt tag](http://localknowit:8888/philipehsing/images/work/web-six.png)
+![alt tag](http://s29.postimg.org/oq6roli5j/web_six.png)
 
 
